@@ -69,6 +69,6 @@ Generate a table that has 1 single row for every unique visit_id record and has 
 
 
 
-Click [here] (https://github.com/Roshan-P9/8-week-SQL-Challenege/blob/main/Case%20Study%20%236%20-%20Clique%20Bait/clique%20bait%20solution.sql) to view the solution solution of the case study!
+Click [here](https://github.com/Roshan-P9/8-week-SQL-Challenege/blob/main/Case%20Study%20%236%20-%20Clique%20Bait/clique%20bait%20solution.sql) to view the solution solution of the case study!
 
 
