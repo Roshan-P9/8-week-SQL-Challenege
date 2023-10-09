@@ -145,6 +145,6 @@ If Danny wants to expand his range of pizzas - how would this impact the existin
 
 
 
-Click [here](https://github.com/Roshan-P9/Pizza_runner_case_study/blob/main/pizza_runner%20challenge.sql) to view the solution solution of the case study!
+Click [here]([https://github.com/Roshan-P9/Pizza_runner_case_study/blob/main/pizza_runner%20challenge.sql](https://github.com/Roshan-P9/8-week-SQL-Challenege/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Pizza%20runner%20solution.sql)https://github.com/Roshan-P9/8-week-SQL-Challenege/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Pizza%20runner%20solution.sql) to view the solution solution of the case study!
 
 
