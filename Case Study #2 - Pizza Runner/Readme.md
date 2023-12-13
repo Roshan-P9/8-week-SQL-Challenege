@@ -16,13 +16,15 @@ Having this deeper connection with his customers and runners will help him deliv
 
 
 # Datasets
-For this case study there is a total of 5 datasets which you will need to combine to solve all of the questions.
+For this case study there is a total of 6 datasets which you will need to combine to solve all of the questions.
 
-* Users:For this case study there is a total of 5 datasets which you will need to combine to solve all of the questions.
-* Events: Customer visits are logged in this events table at a cookie_id level and the event_type and page_id values can be used to join onto relevant satellite tables to obtain further information about each event.
-* Event Identifier: The event_identifier table shows the types of events which are captured by Clique Bait’s digital data systems.
-* Campaign Identifier: This table shows information for the 3 campaigns that Clique Bait has ran on their website so far in 2020.
-* Page Hierarchy: This table lists all of the pages on the Clique Bait website which are tagged and have data passing through from user interaction events.
+* Runners:It contains the runner details(delivery agents) associated with us along with thier registartion date.
+* Customer_orders: Customer pizza orders are captured in this table where every single row represnts every single pizza that is associated with the orders
+* runner_orders: This dataset has info about the orders that are being assigned to each runner.
+* pizza_names: This table shows differnt types of pizza's available to be sold.
+* pizza_recipes: This table lists all the ingredients required for preparing each type of pizza.
+* pizza_toppings: This table lists all different type of pizza toppings available.
+
 
 # Data Cleaning
 Before starting the analysis some of the tables needs to be cleaned. Let's start with the Customer_order Table
